@@ -5,7 +5,7 @@ This is custom karabiner navigation that I find useful daily.
 1. CapsLock becomes Esc when you tap it
 2. Holding CapsLock introduces handy navigation under i/j/k/l and u/o/h/n
 
-![Layout](layout.png)
+![Layout](layout.png | width=500)
 
 ## Install instructions for Mac
 
