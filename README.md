@@ -7,6 +7,8 @@ This is custom karabiner navigation that I find useful daily.
 
 <img src="layout.png" width="50%">
 
+Note: *Word left/right* are defined for Mac as *left/right arrow + option*.
+
 ## Install instructions for Mac
 
 1. Install [karabiner-elements](https://karabiner-elements.pqrs.org/)
